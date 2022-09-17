@@ -655,7 +655,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] You change the time zone that your calendar uses.
 - [ ] You automatically switch to list view.
 - [ ] You set time constraints for booking events.
-- [ ] You change the number of hours visible on the grid.
+- [x] You change the number of hours visible on the grid.
 
 #### Q90. What arrangement can you create in **View Settings** (Windows) or **Rules** (Mac) to color code messages from a particular sender?
 
